@@ -72,17 +72,27 @@ python main.py
 
 ## Screenshots
 
-### Safe Website Detection
+### 🟢 Safe Website Detection
 
-![Safe Website](screenshots/safe_url_output.png)
+This example shows a legitimate website with a low risk score.
 
-### Suspicious Website Detection
+![Safe Website](Screenshots/safe_url_output.png)
 
-![Suspicious Website](screenshots/suspicious_url_output.png)
+---
 
-### High Risk Website Detection
+### 🟡 Suspicious Website Detection
 
-![High Risk Website](screenshots/high_risk_output.png)
+This example contains suspicious keywords and receives a medium risk score.
+
+![Suspicious Website](Screenshots/suspicious_url_output.png)
+
+---
+
+### 🔴 High Risk Website Detection
+
+This example contains multiple spam indicators and is classified as high risk.
+
+![High Risk Website](Screenshots/high_risk_output.png)
 
 ## Sample Output
 
