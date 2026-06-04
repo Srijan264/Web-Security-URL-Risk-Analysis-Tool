@@ -129,13 +129,11 @@ Web-Security-URL-Risk-Analysis-Tool/
 ├── README.md
 ├── LICENSE
 │
-├── screenshots/
-│   ├── safe_url_output.png
-│   └── suspicious_url_output.png
-|   └── high_risk_output.png
-│
-└── docs/
-    └── project_report.pdf
+└── screenshots/
+   ├── safe_url_output.png
+   └── suspicious_url_output.png
+   └── high_risk_output.png
+
 ```
 
 ---
