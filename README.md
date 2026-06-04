@@ -94,6 +94,8 @@ This example contains multiple spam indicators and is classified as high risk.
 
 ![High Risk Website](Screenshots/high_risk_output.png)
 
+---
+
 ## Sample Output
 
 ```text
